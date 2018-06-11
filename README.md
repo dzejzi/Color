@@ -1,2 +1,2 @@
-# Color
-Next.js with react-cosmos
+start: yarn dev
+start cosmos: yarn cosmos
